@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "トドメの一撃",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-03T13:15:42.888821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トドメの一撃",
+      "artist": "Vaundy feat. Cory Wong",
+      "has_synced": true,
+      "path": "select/01_トドメの一撃_Vaundy_feat._Cory_Wong.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トドメの一撃",
+      "artist": "Vaundy, Cory Wong",
+      "has_synced": true,
+      "path": "select/02_トドメの一撃_Vaundy,_Cory_Wong.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トドメの一撃",
+      "artist": "Vaundy Feat. Cory Wong",
+      "has_synced": true,
+      "path": "select/03_トドメの一撃_Vaundy_Feat._Cory_Wong.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トドメの一撃",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/04_トドメの一撃_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トドメの一撃 ( feat. Cory Wong )",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/05_トドメの一撃_(_feat._Cory_Wong_)_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トドメの一撃 ( feat",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/06_トドメの一撃_(_feat_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トドメの一撃 - Todome no ichigeki (feat. Cory Wong)",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/07_トドメの一撃_-_Todome_no_ichigeki_(feat._Cory_Wong)_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トドメの一撃",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/08_トドメの一撃_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トドメの一撃 (feat. Cory Wong)",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/09_トドメの一撃_(feat._Cory_Wong)_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "トドメの一撃",
+      "artist": "Vaundy/Cory Wong",
+      "has_synced": true,
+      "path": "select/10_トドメの一撃_Vaundy_Cory_Wong.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "トドメの一撃 feat. Cory Wong",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/11_トドメの一撃_feat._Cory_Wong_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トドメの一撃",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_トドメの一撃_Vaundy.txt"
+    }
+  ]
+}
